@@ -15,6 +15,10 @@ body {
     gap: 30%;
 }
 
+h1{
+    text-align: center;
+}
+
 .titulo {
     text-align: center;
     font-size: 50px;
