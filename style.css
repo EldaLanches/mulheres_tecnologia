@@ -31,9 +31,11 @@ p {
 nav{
 
 }
+
 .links {
-  display: flex; /* Ativa o flexbox no elemento pai */
-  gap: 20px;     /* Adiciona um espaço de 20px entre os itens filhos (os links) */
+  display: flex;
+  gap: 20px;
+  font-size: 30px;
 }
 
 button{
