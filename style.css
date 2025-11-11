@@ -14,12 +14,6 @@ body {
     justify-content: center;
     gap: 30%;
 }
-
-h1{
-    text-align: center;
-    font-size: 60px;
-}
-
 .texto{
     text-align: center;
     font-size: 25px;
