@@ -1,5 +1,5 @@
 body { 
-    background-color: ;
+    background-color: #0cd337;
 }
 
 .cabecalho{
@@ -57,5 +57,16 @@ button{
     display: block;
     clear: both;
     margin: 10px 0px;
+
+}
+
+button:active{
+	margin-top:0px;
+	border: 0;
+}
+
+button[disabled=disabled], button:disabled {
+    background-color: rgb(128, 128, 128);
+	border-color: darkgray;
 
 }
