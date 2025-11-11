@@ -31,16 +31,9 @@ p {
 nav{
 
 }
-
-li{
-    display: inline-block;
-   
-
-}
-
-li a{
-    font-size: 50px;
-
+.links {
+  display: flex; /* Ativa o flexbox no elemento pai */
+  gap: 20px;     /* Adiciona um espaço de 20px entre os itens filhos (os links) */
 }
 
 button{
