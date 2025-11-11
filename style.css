@@ -32,11 +32,15 @@ nav{
 
 }
 
-.links {
-  display: flex;
-  gap: 20px;
-  font-size: 70px;
-  text-align: center;
+li{
+    display: inline-block;
+   
+
+}
+
+li a{
+    font-size: 50px;
+
 }
 
 button{
