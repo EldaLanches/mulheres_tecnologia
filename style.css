@@ -15,7 +15,8 @@ body {
     gap: 30%;
 }
 
-#titulo {
+.titulo {
+    text-align: center;
 
 }
 
