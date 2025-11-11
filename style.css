@@ -23,6 +23,7 @@ h1{
 .texto{
     text-align: center;
     font-size: 25px;
+    border-radius: 30px;
 }
 
 nav{
