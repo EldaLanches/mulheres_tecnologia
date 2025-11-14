@@ -56,7 +56,9 @@ button {
     background-color: #0cd337;
     border-color: #04324c;
     width: 10%;
-    display: block;
     clear: both;
     margin: 10px 0px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
