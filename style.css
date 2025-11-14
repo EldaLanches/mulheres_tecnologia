@@ -46,6 +46,25 @@ a {
     font-size: 90px;
 }
 
+.butprincipal{
+    padding: .5em 2em;
+    border: 0;
+    border-bottom: 3px solid;
+    font-size: 1.2em;
+    cursor: pointer;
+    margin: 0;
+    margin-top: -3px;
+    color: #fff;
+    background-color: #0cd337;
+    border-color: #04324c;
+    width: 10%;
+    clear: both;
+    margin: 10px 0px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 40px;
+}
 
 button {
     padding: .5em 2em;
