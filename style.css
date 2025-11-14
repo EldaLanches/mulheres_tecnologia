@@ -38,7 +38,7 @@ body {
     object-fit: cover;  /* Garante que a imagem preencha o círculo sem distorção, cortando as bordas extras, se necessário */
     border: 3px solid #333;  /* Borda opcional */
     display: inline-block; /* Alinha os itens (imagens) lado a lado */
-    gap: 40px; /* Adiciona um espaço entre as imagens */
+    gap: 70px; /* Adiciona um espaço entre as imagens */
 }
 
 li {
