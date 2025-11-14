@@ -39,6 +39,7 @@ body {
     display: inline-block;  /* Garante que a imagem se comporte como um bloco para centralização básica se necessário */
     border: 3px solid #333;  /* Borda opcional */
     margin: 7px;
+    margin-top: 40px;
 
 }
 .linkp{
