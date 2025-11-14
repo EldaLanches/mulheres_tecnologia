@@ -51,14 +51,12 @@ a {
     border: 0;
     border-bottom: 3px solid;
     font-size: 1.2em;
-    cursor: pointer;
     margin: 0;
     margin-top: -3px;
     color: #fff;
-    background-color: #639c70;
+    background-color: #608b69;
     border-color: #04324c;
     width: 10%;
-    clear: both;
     margin: 10px 0px;
     display: block;
     margin-left: auto;
