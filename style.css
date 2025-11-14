@@ -43,6 +43,7 @@ body {
 
 li {
     display: inline-block;
+    text-align: center;
 }
 
 li a {
