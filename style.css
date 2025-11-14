@@ -43,7 +43,10 @@ body {
 
 }
 .linkp{
-    margin: 10px 60px; /* 10px em cima/baixo e 15px na esquerda/direita */
+    font-size: 50px;
+    margin-left: 200px;
+    margin-top: 20px;
+    margin-right: 50px;
 }
 
 button {
