@@ -1,8 +1,8 @@
-body { 
+body {
     background-color: #daffe2;
 }
 
-.cabecalho{
+.cabecalho {
     background-color: #4a6944;
     color: rgb(231, 248, 255);
     padding-top: 30px;
@@ -14,59 +14,61 @@ body {
     justify-content: center;
     gap: 30%;
 }
-.texto{
+
+.texto {
     text-align: center;
     font-size: 25px;
     padding: 50px;
 }
 
-.imgcentro{
-    text-align: center;
-    width: 700px;
-    height: 500px;
-    
+.imgcentro {
+    width: 200px;  /* Define uma largura fixa (pode ser ajustada) */
+    height: 200px;  /* Define uma altura fixa e igual à largura */
+    border-radius: 50%;  /* Transforma o elemento em um círculo/oval */
+    object-fit: cover;  /* Garante que a imagem preencha o círculo sem distorção, cortando as bordas extras, se necessário */
+    display: block;  /* Garante que a imagem se comporte como um bloco para centralização básica se necessário */
+    border: 3px solid #333;  /* Borda opcional */
 }
 
-nav{
+nav {}
 
-}
-
-li{
+li {
     display: inline-block;
-   
+
 
 }
 
-li a{
+li a {
     font-size: 50px;
 
 }
 
-button{
-	padding: .5em 2em;
-	border: 0;
-	border-bottom: 3px solid;
-	font-size: 1.2em;
-	cursor: pointer;
-	margin: 0;
-	margin-top: -3px;
-	color: #fff;
-	background-color:#0cd337;
-	border-color: #04324c;
-	width: 20%;
+button {
+    padding: .5em 2em;
+    border: 0;
+    border-bottom: 3px solid;
+    font-size: 1.2em;
+    cursor: pointer;
+    margin: 0;
+    margin-top: -3px;
+    color: #fff;
+    background-color: #0cd337;
+    border-color: #04324c;
+    width: 20%;
     display: block;
     clear: both;
     margin: 10px 0px;
 
 }
 
-button:active{
-	margin-top:0px;
-	border: 0;
+button:active {
+    margin-top: 0px;
+    border: 0;
 }
 
-button[disabled=disabled], button:disabled {
+button[disabled=disabled],
+button:disabled {
     background-color: rgb(128, 128, 128);
-	border-color: darkgray;
+    border-color: darkgray;
 
 }
